@@ -1,4 +1,4 @@
-# ⌨️ Typing Speed Test
+# ⌨️ Typing Practice Web
 
 A simple and clean typing practice website to improve your typing speed and accuracy.
 
@@ -8,14 +8,12 @@ A simple and clean typing practice website to improve your typing speed and accu
 - ✓ Accuracy percentage calculation
 - 🎯 Error highlighting
 - ⏱️ Timed practice sessions
-- 🌙 Dark mode interface
-- 📱 Mobile responsive
 
 ## Quick Start
 
 1. **Download the files:**
    ```bash
-   git clone https://github.com/yourusername/typing-speed-test.git
+   git clone https://github.com/yourusername/typing-practice-web.git
    ```
 
 2. **Open in browser:**
@@ -34,7 +32,7 @@ That's it! No installation or setup required.
 ## Files
 
 ```
-typing-speed-test/
+typing-practice-web/
 ├── index.html    # Main HTML file
 ├── style.css     # Styling
 ├── script.js     # Typing logic
@@ -70,7 +68,7 @@ MIT License - feel free to use this project however you want!
 
 ```
 ┌─────────────────────────────────────┐
-│  ⌨️ Typing Speed Test               │
+│  ⌨️ Typing Practice Web             │
 │  WPM: 0    Accuracy: 100%          │
 │                                     │
 │  the quick brown fox jumps...      │
@@ -81,4 +79,4 @@ MIT License - feel free to use this project however you want!
 
 ---
 
- [Report Issues](https://github.com/yourusername/typing-speed-test/issues)
+Made with ❤️ | [Report Issues](https://github.com/yourusername/typing-practice-web/issues)
